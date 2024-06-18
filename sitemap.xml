@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://vpnzy.net/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://vpnzy.net/post-sitemap.xml</loc>
+		<loc>/post-sitemap.xml</loc>
 		<lastmod>2024-05-15T10:54:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://vpnzy.net/page-sitemap.xml</loc>
+		<loc>/page-sitemap.xml</loc>
 		<lastmod>2024-06-13T13:57:15+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://vpnzy.net/category-sitemap.xml</loc>
+		<loc>/category-sitemap.xml</loc>
 		<lastmod>2024-05-15T10:54:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://vpnzy.net/author-sitemap.xml</loc>
+		<loc>/author-sitemap.xml</loc>
 		<lastmod>2024-05-21T01:39:40+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
