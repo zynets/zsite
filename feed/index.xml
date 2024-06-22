@@ -10,7 +10,7 @@
 <channel>
 	<title>وی پی ان زی</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>https://zynetw.top/</link>
+	<link>/</link>
 	<description>اتصال سریع به شبکه جهانی</description>
 	<lastBuildDate>Wed, 15 May 2024 10:54:40 +0000</lastBuildDate>
 	<language>fa-IR</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/05/cropped-zy3-32x32.png</url>
 	<title>وی پی ان زی</title>
-	<link>https://zynetw.top/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
