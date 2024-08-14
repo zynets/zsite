@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>اتصال سریع به شبکه جهانی</description>
-	<lastBuildDate>Sat, 22 Jun 2024 08:52:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Aug 2024 18:48:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 </channel>
 </rss>

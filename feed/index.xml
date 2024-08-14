@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/05/cropped-zy3-32x32.png</url>
@@ -61,7 +61,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li style="line-height:2">سرعت اتصال محدود میشه، اون سرور نهایتا ۱ گیگابیت پهنای باند داره (اکثر سرور ها حتی ۱۰۰ مگابیت هستند). وقتی بین ۵۰۰ نفر تقسیم بشه، سرعت هر نفر نهایتا ۵ مگابیت هست.</li>
 
 
@@ -83,7 +83,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li style="line-height:2">چون با تعداد کم کاربر ترافیک هر سرور ما به اندازه ای نمیرسه که کلا بخواد فیلتر بشه</li>
 
 
